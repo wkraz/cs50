@@ -1,0 +1,11 @@
+sort1 uses: bubble sort 
+
+How do you know?: It is the fastest algorithm when unsorted since it uses omega(n)
+
+sort2 uses: merge sort
+
+How do you know?:This possesses the shortest runtime when unsorted O(n log n)
+
+sort3 uses: selection sort
+
+How do you know?: When already sorted, this still possesses omega (n^2)
