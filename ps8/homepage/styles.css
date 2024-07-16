@@ -1,0 +1,39 @@
+.header {
+    padding: 80px;
+    text-align: center;
+    background: #266e42;
+    color: white;
+}
+
+.main {
+    flex: 70%;
+    background-color: #14d93b;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+}
+
+
+.homepage a{
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    background-color: #FFD700;
+    color: black;
+    display: block;
+    float: center;
+}
+
+.homepage a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+* {
+    box-sizing: border-box;
+}

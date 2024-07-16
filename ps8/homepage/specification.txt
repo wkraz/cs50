@@ -1,0 +1,27 @@
+HTML tags:
+<link>
+<script>
+<style>
+<meta>
+<div>
+<h1>
+<h3>
+<h2>
+<h5>
+<p>
+
+
+CSS properties:
+padding
+text-align
+color
+background
+text-decoration
+display
+float
+box-sizing
+
+
+How I used Bootstrap and JS:
+I used the starter-template class in Bootstrap to format my links and title
+I used JS to implement a drop down menu

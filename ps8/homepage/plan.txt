@@ -1,0 +1,33 @@
+Plan for my website
+
+Index.html:
+    Large title in middle - My 3 Favorite Things at Notre Dame
+    Have my name underneath
+    Have links to all 3 other pages
+    In background have a picture of Notre Dame campus
+
+
+Football.html:
+    Background: football stadium
+    All the games I've been to
+        Mention Ohio State and USC (two most memorable)
+    Predictions for upcoming season
+
+
+Engineering.html:
+    Background: ACS pic
+    Talk about ACS
+    Talk about London
+    Just generally describe program
+
+
+Rugby.html:
+    Background: rugby pic
+    Talk about how I enjoy playing
+
+
+Functionality:
+    Trivia on football page (use JS)
+    
+    Use bootstrap to pretty everything up
+    Use "styles.css"
